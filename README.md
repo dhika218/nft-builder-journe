@@ -1,4 +1,4 @@
-## nft-builder-journe
+## nft-builder-journey
 **My Web3 builder journey on Base blockchain**
 
 -Minted my first NFT on Base network - the journey begins
