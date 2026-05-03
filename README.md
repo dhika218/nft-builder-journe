@@ -10,3 +10,13 @@
 -Explored ERC-721 token standard for unique digital assets
 
 -Learned how royalties work for NFT creators on-chain
+
+-Created my first generative art concept for an NFT drop
+
+-
+
+-
+
+-
+
+-
