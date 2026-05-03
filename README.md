@@ -1,4 +1,4 @@
-##nft-builder-journe
+## nft-builder-journe
 **My Web3 builder journey on Base blockchain**
 
 -Minted my first NFT on Base network - the journey begins
@@ -9,3 +9,4 @@
 
 -Explored ERC-721 token standard for unique digital assets
 
+-Learned how royalties work for NFT creators on-chain
