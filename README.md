@@ -15,7 +15,7 @@
 
 -Understood the difference between 1/1 and collection NFTs
 
--
+-Explored Base NFT marketplaces and their fee structures
 
 -
 
