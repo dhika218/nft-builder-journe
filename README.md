@@ -19,4 +19,4 @@
 
 -Studied how smart contracts power NFT ownership transfers
 
--
+-Learned about on-chain vs off-chain NFT metadata
