@@ -13,7 +13,7 @@
 
 -Created my first generative art concept for an NFT drop
 
--
+-Understood the difference between 1/1 and collection NFTs
 
 -
 
