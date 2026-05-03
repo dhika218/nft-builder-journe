@@ -17,6 +17,6 @@
 
 -Explored Base NFT marketplaces and their fee structures
 
--
+-Studied how smart contracts power NFT ownership transfers
 
 -
