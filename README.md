@@ -87,7 +87,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Explored charity NFT drops and social impact projects
 
--
+-Learned about NFT memberships and token-gated communities
 
 -
 
