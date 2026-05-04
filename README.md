@@ -50,7 +50,7 @@ Learned about allowlists and whitelist mechanics for drops
 
 -Understood how pfp NFT communities build social identity
 
--
+-Explored AI-generated NFT art and its controversies
 
 -
 
