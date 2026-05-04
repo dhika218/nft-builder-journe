@@ -95,7 +95,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Studied the impact of wash trading on NFT markets
 
--
+-Learned about NFT analytics tools for smarter collecting
 
 -
 
