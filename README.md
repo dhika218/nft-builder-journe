@@ -55,7 +55,7 @@ Learned about allowlists and whitelist mechanics for drops
 -Studied copyright and IP rights in the NFT space
 Learned about NFT gaming and in-game asset ownership
 
--
+-Explored play-to-earn models built on Base network
 
 -
 
