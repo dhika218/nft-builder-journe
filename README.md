@@ -59,7 +59,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Understood how land NFTs work in virtual worlds
 
--
+-Studied NFT staking mechanisms for passive rewards
 
 -
 
