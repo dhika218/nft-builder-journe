@@ -91,7 +91,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Understood how reveal mechanics create NFT launch hype
 
--
+-Explored collaborative NFT projects between artists
 
 -
 
