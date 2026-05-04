@@ -75,7 +75,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Explored generative art tools like p5.js for NFT creation
 
--
+-Understood how IPFS and Arweave store NFT assets permanently
 
 -
 
