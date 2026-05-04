@@ -89,7 +89,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Learned about NFT memberships and token-gated communities
 
--
+-Understood how reveal mechanics create NFT launch hype
 
 -
 
