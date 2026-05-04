@@ -25,7 +25,7 @@
 
 -Understood soulbound tokens and non-transferable NFTs
 
--
+-Studied the history of CryptoPunks and early NFT culture
 
 -
 
