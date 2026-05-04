@@ -52,7 +52,8 @@ Learned about allowlists and whitelist mechanics for drops
 
 -Explored AI-generated NFT art and its controversies
 
--
+-Studied copyright and IP rights in the NFT space
+Learned about NFT gaming and in-game asset ownership
 
 -
 
