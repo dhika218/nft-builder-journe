@@ -67,7 +67,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Understood mint price strategies for successful drops
 
--
+-Explored cross-chain NFT bridges between networks
 
 -
 
