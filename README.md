@@ -57,7 +57,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Explored play-to-earn models built on Base network
 
--
+-Understood how land NFTs work in virtual worlds
 
 -
 
