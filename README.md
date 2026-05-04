@@ -61,6 +61,6 @@ Learned about NFT gaming and in-game asset ownership
 
 -Studied NFT staking mechanisms for passive rewards
 
--
+-Explored burn-to-mint mechanics in NFT collections
 
 -
