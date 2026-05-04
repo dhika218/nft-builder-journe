@@ -64,3 +64,23 @@ Learned about NFT gaming and in-game asset ownership
 -Explored burn-to-mint mechanics in NFT collections
 
 -Learned about trait upgrading in evolving NFT projects
+
+-Understood mint price strategies for successful drops
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
