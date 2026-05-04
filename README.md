@@ -31,7 +31,7 @@
 
 -Learned about NFT fractionalization for shared ownership
 
--
+-Understood how NFT floors and market caps are calculated
 
 -
 
