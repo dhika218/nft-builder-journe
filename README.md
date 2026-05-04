@@ -93,7 +93,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Explored collaborative NFT projects between artists
 
--
+-Studied the impact of wash trading on NFT markets
 
 -
 
