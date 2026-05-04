@@ -71,7 +71,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Studied snapshot voting for NFT holder governance
 
--
+-Learned about NFT derivatives and composability
 
 -
 
