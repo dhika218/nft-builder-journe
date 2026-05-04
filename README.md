@@ -97,7 +97,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Learned about NFT analytics tools for smarter collecting
 
--
+-Explored emerging NFT use cases in real estate on-chain
 
 -
 
