@@ -81,6 +81,6 @@ Learned about NFT gaming and in-game asset ownership
 
 -Explored charity NFT drops and social impact projects
 
--
+-Understood how IPFS and Arweave store NFT assets permanently
 
 -
