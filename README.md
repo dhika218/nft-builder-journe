@@ -38,7 +38,7 @@
 -Studied trait rarity and how it affects NFT value
 Learned about allowlists and whitelist mechanics for drops
 
--
+-Explored stealth minting and fair launch strategies
 
 -
 
