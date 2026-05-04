@@ -27,7 +27,7 @@
 
 -Studied the history of CryptoPunks and early NFT culture
 
--
+-Explored music NFTs and how artists monetize on-chain
 
 -
 
