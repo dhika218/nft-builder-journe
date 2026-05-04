@@ -99,7 +99,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Explored emerging NFT use cases in real estate on-chain
 
--
+-Understood how Base makes NFT minting cheaper and faster
 
 -
 
