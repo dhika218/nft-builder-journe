@@ -40,6 +40,6 @@ Learned about allowlists and whitelist mechanics for drops
 
 -Explored stealth minting and fair launch strategies
 
--
+-Understood gas optimization for large NFT collection mints
 
 -
