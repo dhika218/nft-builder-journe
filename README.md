@@ -33,7 +33,7 @@
 
 -Understood how NFT floors and market caps are calculated
 
--
+-Explored NFT lending and borrowing protocols on Base
 
 -
 
