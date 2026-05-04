@@ -46,7 +46,7 @@ Learned about allowlists and whitelist mechanics for drops
 
 -Explored phygital NFTs linking digital and physical items
 
--
+-Learned about NFT ticketing for events and experiences
 
 -
 
