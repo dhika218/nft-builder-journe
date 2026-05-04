@@ -23,7 +23,7 @@
 
 -Explored dynamic NFTs that change based on conditions
 
--
+-Understood soulbound tokens and non-transferable NFTs
 
 -
 
