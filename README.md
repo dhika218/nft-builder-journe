@@ -42,4 +42,24 @@ Learned about allowlists and whitelist mechanics for drops
 
 -Understood gas optimization for large NFT collection mints
 
+-Studied ERC-1155 for semi-fungible token collections
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
 -
