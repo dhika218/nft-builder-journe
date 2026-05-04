@@ -48,7 +48,7 @@ Learned about allowlists and whitelist mechanics for drops
 
 -Learned about NFT ticketing for events and experiences
 
--
+-Understood how pfp NFT communities build social identity
 
 -
 
