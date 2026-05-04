@@ -84,3 +84,23 @@ Learned about NFT gaming and in-game asset ownership
 -Understood how IPFS and Arweave store NFT assets permanently
 
 -Studied the role of provenance in NFT authenticity
+
+-Explored charity NFT drops and social impact projects
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
