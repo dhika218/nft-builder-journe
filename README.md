@@ -29,7 +29,7 @@
 
 -Explored music NFTs and how artists monetize on-chain
 
--
+-Learned about NFT fractionalization for shared ownership
 
 -
 
