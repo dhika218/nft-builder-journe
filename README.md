@@ -73,7 +73,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Learned about NFT derivatives and composability
 
--
+-Explored generative art tools like p5.js for NFT creation
 
 -
 
