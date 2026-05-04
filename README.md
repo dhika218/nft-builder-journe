@@ -69,7 +69,7 @@ Learned about NFT gaming and in-game asset ownership
 
 -Explored cross-chain NFT bridges between networks
 
--
+-Studied snapshot voting for NFT holder governance
 
 -
 
