@@ -35,7 +35,8 @@
 
 -Explored NFT lending and borrowing protocols on Base
 
--
+-Studied trait rarity and how it affects NFT value
+Learned about allowlists and whitelist mechanics for drops
 
 -
 
