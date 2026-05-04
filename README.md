@@ -44,7 +44,7 @@ Learned about allowlists and whitelist mechanics for drops
 
 -Studied ERC-1155 for semi-fungible token collections
 
--
+-Explored phygital NFTs linking digital and physical items
 
 -
 
