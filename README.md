@@ -103,4 +103,4 @@ Learned about NFT gaming and in-game asset ownership
 
 -Proud to be building in the NFT space on Base network
 
--
+-Completed my NFT builder journey - onwards to new chapters
