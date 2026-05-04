@@ -101,6 +101,6 @@ Learned about NFT gaming and in-game asset ownership
 
 -Understood how Base makes NFT minting cheaper and faster
 
--
+-Proud to be building in the NFT space on Base network
 
 -
